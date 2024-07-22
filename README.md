@@ -1,1 +1,1 @@
-Adopted from [Reed Barger on FreeCodeCamp](https://www.freecodecamp.org/news/build-portfolio-website-react/)
+Adapted from [Reed Barger on FreeCodeCamp](https://www.freecodecamp.org/news/build-portfolio-website-react/)
