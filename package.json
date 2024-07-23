@@ -1,8 +1,8 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://colexeco.github.io/Personal_Website/",
+  "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.1",
