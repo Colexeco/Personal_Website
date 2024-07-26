@@ -5,7 +5,7 @@ export const projects = [
     description:
       "",
     image: "./transpiler.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
     title: "Automated Linux Service",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "",
     image: "./counter.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Colexeco/Automated_Linux_Service",
   },
   {
     title: "Strava Running Data EDA",
@@ -28,25 +28,8 @@ export const projects = [
     subtitle: "Python, PyTorch, Polars",
     description:
       "",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    image: "./fake_news_detector.gif",
+    link: "https://github.com/Colexeco/fake-news-detector",
   },
 ];
 
