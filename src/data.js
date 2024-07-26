@@ -8,26 +8,26 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Automated Linux Service",
+    subtitle: "Java, Docker, and Shell Scripts",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+      "",
+    image: "./counter.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Strava Running Data EDA",
+    subtitle: "Python, Pandas, Sklearn",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "",
+    image: "./Running_EDA.gif",
+    link: "https://drive.google.com/file/d/1jH_h5dm0mISK9fgEKbRkshQMinl_joDt/view?usp=sharing",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Fake News Detector",
+    subtitle: "Python, PyTorch, Polars",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
