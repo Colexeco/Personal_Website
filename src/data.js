@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Custom Programming Language to Java Transpiler",
+    subtitle: "MyPL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./transpiler.gif",
     link: "https://reactbootcamp.com",
   },
